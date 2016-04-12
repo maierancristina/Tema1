@@ -1,0 +1,7 @@
+N:\An 3\Sem 2\PS\theatre\DL\bin\Debug\DL.dll
+N:\An 3\Sem 2\PS\theatre\DL\bin\Debug\DL.pdb
+N:\An 3\Sem 2\PS\theatre\DL\bin\Debug\BEL.dll
+N:\An 3\Sem 2\PS\theatre\DL\bin\Debug\BEL.pdb
+N:\An 3\Sem 2\PS\theatre\DL\obj\Debug\DL.csprojResolveAssemblyReference.cache
+N:\An 3\Sem 2\PS\theatre\DL\obj\Debug\DL.dll
+N:\An 3\Sem 2\PS\theatre\DL\obj\Debug\DL.pdb

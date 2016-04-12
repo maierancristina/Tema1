@@ -1,0 +1,5 @@
+N:\An 3\Sem 2\PS\theatre\BEL\bin\Debug\BEL.dll
+N:\An 3\Sem 2\PS\theatre\BEL\bin\Debug\BEL.pdb
+N:\An 3\Sem 2\PS\theatre\BEL\obj\Debug\BEL.csprojResolveAssemblyReference.cache
+N:\An 3\Sem 2\PS\theatre\BEL\obj\Debug\BEL.dll
+N:\An 3\Sem 2\PS\theatre\BEL\obj\Debug\BEL.pdb

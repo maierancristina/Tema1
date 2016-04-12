@@ -1,0 +1,17 @@
+N:\An 3\Sem 2\PS\theatre\theatre\bin\Debug\theatre.exe.config
+N:\An 3\Sem 2\PS\theatre\theatre\bin\Debug\theatre.exe
+N:\An 3\Sem 2\PS\theatre\theatre\bin\Debug\theatre.pdb
+N:\An 3\Sem 2\PS\theatre\theatre\bin\Debug\BEL.dll
+N:\An 3\Sem 2\PS\theatre\theatre\bin\Debug\BL.dll
+N:\An 3\Sem 2\PS\theatre\theatre\bin\Debug\BEL.pdb
+N:\An 3\Sem 2\PS\theatre\theatre\bin\Debug\BL.pdb
+N:\An 3\Sem 2\PS\theatre\theatre\obj\Debug\theatre.csprojResolveAssemblyReference.cache
+N:\An 3\Sem 2\PS\theatre\theatre\obj\Debug\theatre.Properties.Resources.resources
+N:\An 3\Sem 2\PS\theatre\theatre\obj\Debug\theatre.csproj.GenerateResource.Cache
+N:\An 3\Sem 2\PS\theatre\theatre\obj\Debug\theatre.exe
+N:\An 3\Sem 2\PS\theatre\theatre\obj\Debug\theatre.pdb
+N:\An 3\Sem 2\PS\theatre\theatre\bin\Debug\DL.dll
+N:\An 3\Sem 2\PS\theatre\theatre\bin\Debug\DL.pdb
+N:\An 3\Sem 2\PS\theatre\theatre\obj\Debug\theatre.Form1.resources
+N:\An 3\Sem 2\PS\theatre\theatre\obj\Debug\theatre.Angajat.resources
+N:\An 3\Sem 2\PS\theatre\theatre\obj\Debug\theatre.Admin.resources
